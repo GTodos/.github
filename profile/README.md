@@ -1,2 +1,2 @@
-![GTodos Banner](/gtodos_banner.png "GTodos Banner")
+![alt text](gtodos_banner.png "Title")
 
