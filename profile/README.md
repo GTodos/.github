@@ -33,7 +33,9 @@
   ********
 
   Step 1. Register Account
-    
+  <div>
+    <img src="./register.gif">
+  </div>
   
 </div>
 
