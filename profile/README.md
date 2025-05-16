@@ -9,7 +9,7 @@
 <br/>
 
 <div>
-  <h3>GTodos technologies</h3>
+  <h3>What is GTodos?</h3>
   
   ********
   
