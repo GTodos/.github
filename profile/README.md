@@ -2,7 +2,7 @@
   <img src="./gtodos_banner.png">
 </div>
 
-<h1 align="center">GTodos Todo App</h1>
+<h1 align="center">GTodos Todo App v0.1</h1>
 <h3 align="center">Open sorce application for all your todos</h3>
 
 <br/>
@@ -36,6 +36,28 @@
   <div>
     <img src="./register.gif">
   </div>
+  
+  <br/>
+  
+  Step 2. Login
+  <div>
+    <img src="./login.gif">
+  </div>
+  
+  <br/>
+  
+  Step 3. making, checking, editing and deleting todos
+  <div>
+    <img src="./todo.gif">
+  </div>
+  
+  <br/>
+  
+  Step 4. logout
+  <div>
+    <img src="./logout.gif">
+  </div>
+  
   
 </div>
 
